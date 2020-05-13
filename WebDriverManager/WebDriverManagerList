@@ -1,0 +1,11 @@
+ =========================================================
+ Driver Manager can be used as below for various browsers:
+ =========================================================
+
+
+WebDriverManager.chromedriver().setup();
+WebDriverManager.firefoxdriver().setup();
+WebDriverManager.operadriver().setup();
+WebDriverManager.phantomjs().setup();
+WebDriverManager.edgedriver().setup();
+WebDriverManager.iedriver().setup();
